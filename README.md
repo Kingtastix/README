@@ -1,1 +1,3 @@
-# README
+Hello, 
+
+My name is Kingtastix, 
