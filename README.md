@@ -1,3 +1,7 @@
-Hello, 
+Programming Languages:
 
-My name is Kingtastix, 
+HTML, CSS, Javascript, Java
+
+Frameworks:
+
+React, SpringBoot, Bootstrap
